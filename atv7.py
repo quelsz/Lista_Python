@@ -1,6 +1,3 @@
-#Solicite um número ímpar ao usuário e calcule a diferença entre o quadrado do
-#número anterior e do próximo número ímpar.
-
 numero = int(input("Diga um numero impar:"))
 
 anterior = numero - 2
