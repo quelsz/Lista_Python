@@ -1,6 +1,3 @@
-#Dado um salário inicial e um aumento percentual que dobra a cada ano, calcule o
-#salário atual após vários anos.
-
 salario_inicial = int(input("Informe seu salario inicial: "))
 tempo = int(input("Informe o tempo que voce trabalha: "))
 
