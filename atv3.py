@@ -1,7 +1,3 @@
-#Peça ao usuário o valor total das mercadorias compradas. Se for menor que R$500,
-#não há imposto. Caso contrário, aplique uma taxa de 50% sobre o valor que ultrapassar
-#os R$500.
-
 valor = int(input("Diga o valor das compras:"))
 
 if valor > 500:
