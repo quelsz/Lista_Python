@@ -1,4 +1,4 @@
-tempo = int(input("Diga o valor dos segundos:"))
+tempo = int(input("Diga o valor em segundos: "))
 
 minutos = tempo // 60
 horas = minutos // 60
